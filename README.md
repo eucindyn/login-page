@@ -1,5 +1,5 @@
 <div align="center">
-Uma tela de login usando um pouco de HTML, CSS e JavaScript.
+Uma tela de login responsiva usando um pouco de HTML, CSS e JavaScript.
 </div><br>
 
 <div align="center">
